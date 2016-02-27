@@ -1,5 +1,7 @@
-Medium's Policies and Guidelines
+Scotch.io's Policies and Guidelines
 ======
+
+Forked from Medium. They're awesome.
 
 This is where we keep past and current versions of Medium's Policies and Guidelines. 
 
